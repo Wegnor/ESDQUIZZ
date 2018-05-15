@@ -1,0 +1,14 @@
+.main1 {
+  display: flex;
+  flex-flow: row-wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.trois {
+  justify-content:space-around;
+}
+
+body {
+  background-image: url("Edward_Elric.png");
+}
